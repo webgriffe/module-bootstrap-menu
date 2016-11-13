@@ -1,6 +1,6 @@
 <?php
 
-namespace Webgriffe\Theme\Block\Html;
+namespace Webgriffe\BootstrapMenu\Block\Html;
 
 use Magento\Theme\Block\Html\Topmenu as CoreTopmenu;
 
