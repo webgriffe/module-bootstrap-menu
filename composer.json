@@ -3,7 +3,7 @@
     "description": "N/A",
     "require": {
         "php": "~5.6.0|7.0.2|~7.0.6",
-        "magento/module-theme": "100.1.*",
+        "magento/module-theme": "100.1.*"
     },
     "suggest": {
         "webgriffe/theme-frontend-bootstrap": "^1.0"
