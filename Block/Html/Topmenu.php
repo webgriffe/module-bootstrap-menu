@@ -96,7 +96,7 @@ class Topmenu extends CoreTopmenu
         $levelClassPrefix = $this->getItemLevelClassPrefix() ?: 'level';
         $firstClass = $this->getFirstItemClass() ?: 'first';
         $activeClass = $this->getActiveItemClass() ?: 'active';
-        $hasActiveClass = $this->getHasActiveItemClass() ?: 'has-active';
+        $hasActiveClass = $this->getHasActiveItemClass() ?: 'active';
         $lastClass = $this->getLastItemClass() ?: 'last';
         $parentClass = $this->getParentItemClass() ?:'parent';
 
