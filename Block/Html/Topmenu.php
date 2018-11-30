@@ -76,7 +76,7 @@ class Topmenu extends CoreTopmenu
             return $html;
         }
 
-        $colStops = null;
+        $colStops = [];
         if ($childLevel == 0 && $limit) {
             $colStops = $this->_columnBrake($child->getChildren(), $limit);
         }
