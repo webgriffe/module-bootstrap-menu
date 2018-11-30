@@ -16,7 +16,7 @@ class Topmenu extends CoreTopmenu
         \Magento\Framework\Data\Tree\Node $menuTree,
         $childrenWrapClass,
         $limit,
-        $colBrakes = []
+        array $colBrakes = []
     ) {
         $html = '';
 
