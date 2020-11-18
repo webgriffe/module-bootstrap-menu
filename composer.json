@@ -2,7 +2,7 @@
     "name": "vaxltd/module-bootstrap-menu",
     "description": "Magento 2 module which turns top menu compatible with Bootstrap.",
     "require": {
-        "php": "^5.6|^7.0|^7.1|^7.2",
+        "php": "^5.6||^7.0||^7.1||^7.2",
         "magento/module-theme": "*"
     },
     "suggest": {
