@@ -6,8 +6,9 @@
         "magento/module-theme": "*"
     },
     "suggest": {
-        "webgriffe/theme-frontend-bootstrap": "^1.0"
+        "vaxltd/theme-frontend-bootstrap": "^1.0"
     },
+    "minimum-stability": "dev",
     "type": "magento2-module",
     "version": "1.0.4",
     "license": [
