@@ -1,13 +1,11 @@
 {
-    "name": "webgriffe/module-bootstrap-menu",
+    "name": "vaxltd/module-bootstrap-menu",
     "description": "Magento 2 module which turns top menu compatible with Bootstrap.",
     "require": {
         "php": "^5.6|^7.0|^7.1|^7.2|^7.3",
         "magento/module-theme": "*"
     },
-    "suggest": {
-        "webgriffe/theme-frontend-bootstrap": "^1.0"
-    },
+    "minimum-stability": "dev",
     "type": "magento2-module",
     "version": "1.0.4",
     "license": [
