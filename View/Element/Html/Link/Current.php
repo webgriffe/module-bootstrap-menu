@@ -1,6 +1,6 @@
 <?php
 
-namespace Webgriffe\BootstrapMenu\View\Element\Html\Link;
+namespace VaxLtd\BootstrapMenu\View\Element\Html\Link;
 
 class Current extends \Magento\Framework\View\Element\Html\Link\Current
 {
