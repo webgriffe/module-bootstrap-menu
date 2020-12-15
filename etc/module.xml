@@ -3,7 +3,8 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="VaxLtd_BootstrapMenu" setup_version="1.0.0">
         <sequence>
-            Magento_Theme
+            <module name="Magento_Theme"/>
+            <module name="Magento_Catalog" />
         </sequence>
     </module>
 </config>
